@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/MovieDBproject/static/css/main.ce7ebcbb.chunk.css",
-    "main.js": "/MovieDBproject/static/js/main.1d19a31e.chunk.js",
-    "main.js.map": "/MovieDBproject/static/js/main.1d19a31e.chunk.js.map",
+    "main.css": "/MovieDBproject/static/css/main.d15eb826.chunk.css",
+    "main.js": "/MovieDBproject/static/js/main.ff06ea0e.chunk.js",
+    "main.js.map": "/MovieDBproject/static/js/main.ff06ea0e.chunk.js.map",
     "runtime-main.js": "/MovieDBproject/static/js/runtime-main.25be3d3d.js",
     "runtime-main.js.map": "/MovieDBproject/static/js/runtime-main.25be3d3d.js.map",
     "static/css/2.af3c1da9.chunk.css": "/MovieDBproject/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.f8deb277.chunk.js": "/MovieDBproject/static/js/2.f8deb277.chunk.js",
-    "static/js/2.f8deb277.chunk.js.map": "/MovieDBproject/static/js/2.f8deb277.chunk.js.map",
+    "static/js/2.dba17de1.chunk.js": "/MovieDBproject/static/js/2.dba17de1.chunk.js",
+    "static/js/2.dba17de1.chunk.js.map": "/MovieDBproject/static/js/2.dba17de1.chunk.js.map",
     "index.html": "/MovieDBproject/index.html",
-    "precache-manifest.74ec367e718b07ba6fa4714cbfb681e0.js": "/MovieDBproject/precache-manifest.74ec367e718b07ba6fa4714cbfb681e0.js",
+    "precache-manifest.1ebac02a559efe6290556e3ce73f6aa0.js": "/MovieDBproject/precache-manifest.1ebac02a559efe6290556e3ce73f6aa0.js",
     "service-worker.js": "/MovieDBproject/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/MovieDBproject/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.ce7ebcbb.chunk.css.map": "/MovieDBproject/static/css/main.ce7ebcbb.chunk.css.map",
-    "static/js/2.f8deb277.chunk.js.LICENSE.txt": "/MovieDBproject/static/js/2.f8deb277.chunk.js.LICENSE.txt",
+    "static/css/main.d15eb826.chunk.css.map": "/MovieDBproject/static/css/main.d15eb826.chunk.css.map",
+    "static/js/2.dba17de1.chunk.js.LICENSE.txt": "/MovieDBproject/static/js/2.dba17de1.chunk.js.LICENSE.txt",
     "static/media/logo.png": "/MovieDBproject/static/media/logo.ac0ac95d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.25be3d3d.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.f8deb277.chunk.js",
-    "static/css/main.ce7ebcbb.chunk.css",
-    "static/js/main.1d19a31e.chunk.js"
+    "static/js/2.dba17de1.chunk.js",
+    "static/css/main.d15eb826.chunk.css",
+    "static/js/main.ff06ea0e.chunk.js"
   ]
 }
